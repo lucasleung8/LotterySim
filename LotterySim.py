@@ -1,6 +1,3 @@
-# todo:
-# 
-
 import random
 
 winningNumber = random.randint(1, 292000000)
